@@ -1,4 +1,4 @@
-Prompt Builder & Analyzer
+# Prompt Builder & Analyzer
 
 A feature-rich Tkinter desktop app to help you write, structure, and refine AI prompts for large language models like ChatGPT, Claude, Gemini, and more. It intelligently analyses prompt components, highlights structural elements, and suggests improvements or advanced prompting techniques.
 
