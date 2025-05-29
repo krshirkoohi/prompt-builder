@@ -39,23 +39,25 @@ A feature-rich Tkinter desktop app to help you write, structure, and refine AI p
 * Generate Knowledge
 
 Each template comes with:
-	•	A usage description
-	•	When to use it
-	•	A prompt template example
+* A usage description
+* When to use it
+* A prompt template example
 
 ## Prompt Elements Analysed
 
 The app highlights:
-	•	Instruction: Verbs like “Summarise”, “Translate”, “Explain”
-	•	Context: Scenario or background information
-	•	Input Data: User data, examples, or questions
-	•	Output Format: Expected format (JSON, table, bullet points, etc.)
-	•	Role: Phrases like “Act as a…” or “You are a…”
-	•	Delimiters: Markdown/code blocks like ###, ---, etc.
-	•	Examples: Markers like “Example 1:”
-	•	Chain-of-Thought Triggers: “Let’s think step-by-step”
+* Instruction: Verbs like “Summarise”, “Translate”, “Explain”
+* Context: Scenario or background information
+* Input Data: User data, examples, or questions
+* Output Format: Expected format (JSON, table, bullet points, etc.)
+* Role: Phrases like “Act as a…” or “You are a…”
+* Delimiters: Markdown/code blocks like ###, ---, etc.
+* Examples: Markers like “Example 1:”
+* Chain-of-Thought Triggers: “Let’s think step-by-step”
 
 ## Usage
+Make sure to install the required packages first: ```pip install requirements.txt```
+
 1. Run the App by scoping to the folder and using
 ```python main.py```
 
