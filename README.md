@@ -24,19 +24,19 @@ A feature-rich Tkinter desktop app to help you write, structure, and refine AI p
 ```pip install pyperclip```
 
 ## Prompt Techniques Included
-	•	Zero-shot
-	•	Few-shot
-	•	Chain-of-Thought (CoT)
-	•	ReAct (Reason and Act)
-	•	RAG (Retrieval-Augmented Generation)
-	•	PAL (Program-Aided Language Models)
-	•	Prompt Chaining
-	•	Tree of Thoughts
-	•	Directional Stimulus
-	•	Meta Prompting
-	•	Graph Prompting
-	•	Self-consistency
-	•	Generate Knowledge
+* Zero-shot
+* Few-shot
+* Chain-of-Thought (CoT)
+* ReAct (Reason and Act)
+* RAG (Retrieval-Augmented Generation)
+* PAL (Program-Aided Language Models)
+* Prompt Chaining
+* Tree of Thoughts
+* Directional Stimulus
+* Meta Prompting
+* Graph Prompting
+* Self-consistency
+* Generate Knowledge
 
 Each template comes with:
 	•	A usage description
@@ -56,19 +56,22 @@ The app highlights:
 	•	Chain-of-Thought Triggers: “Let’s think step-by-step”
 
 ## Usage
-	1.	Run the App
+1. Run the App by scoping to the folder and using
+```python main.py```
 
-```python your_script_name.py```
-
-	2.	Start Typing
+2. Start Typing
 Enter or paste your prompt in the input area.
-	3.	Use Templates
+
+3. Use Templates
 Select a technique from the dropdown to load a pre-built structure.
-	4.	Review Analysis
+
+4. Review Analysis
 Prompt elements are automatically highlighted in the Analysis area.
-	5.	Check Suggestions
+
+5. Check Suggestions
 See tips and techniques that could improve your prompt.
-	6.	Copy Prompt
+
+6. Copy Prompt
 Click “Copy Input Prompt” to copy your edited prompt to clipboard.
 
 ## Development Notes
