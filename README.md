@@ -21,7 +21,7 @@ A feature-rich Tkinter desktop app to help you write, structure, and refine AI p
 *	Tkinter (comes with standard Python)
 *	pyperclip (for clipboard functionality)
 
-```pip install pyperclip```
+```pip install requirements.txt```
 
 ## Prompt Techniques Included
 * Zero-shot
@@ -56,7 +56,6 @@ The app highlights:
 * Chain-of-Thought Triggers: “Let’s think step-by-step”
 
 ## Usage
-Make sure to install the required packages first: ```pip install requirements.txt```
 
 1. Run the App by scoping to the folder and using
 ```python main.py```
@@ -90,8 +89,6 @@ prompt-builder/
 ├── README.md
 └── requirements.txt
 ```
-
-(Add requirements.txt with pyperclip)
 
 ## License
 
